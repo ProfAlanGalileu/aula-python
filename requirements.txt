@@ -4,3 +4,8 @@ autopep8
 
 # App
 flask
+
+#banco de dados
+Flask-SQLAlchemy
+PyMySQL
+cryptography
